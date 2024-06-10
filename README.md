@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello
 - 🔭 I’m currently a Masters's Student in Data Science
 - 💬 Ask me about anything 
 - 📫 How to reach me through email: eltontinashe99@gmail.com
